@@ -38,8 +38,9 @@
      🚀!text.universe (text) = Ex: !text.universe dx4iot
      🚀!text.mirror (text) = Ex: !text.mirror dx4iot
 
+## Join
+Join Our [Discord Server](https://discord.gg/RdMngVN)
 
-`Join Our [Discord Server](https://discord.gg/RdMngVN)`
 ## Support or Contact
 if you have any thoughts or feedback about RETURN 2HACK  BOT then check out [here](https://forms.gle/uhucQ4hwsgYfPWEK8)
 
