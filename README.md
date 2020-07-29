@@ -14,12 +14,10 @@
 ### URL SHORTNER
     🚀!url.shortner (url) = Ex: !url.shortner https://techbuster.in/ | short any url
 
-
 ## INFORMATION GATHERING 
     🚀!sim (your phone no) = Ex: !sim 7351589XXX | find SIM name   (currently for india) 
     🚀!check.uname (username) = Ex: !check.uname dx4iot | check username on top websites
     🚀!host2ip (domain name) = Ex: !host2ip techbuster.in | convert hostname to ip
-    🚀!info.web (domain name) = Ex: !info.web techbuster.in | find information about domain 
     
 ## SOCIAL MEDIA TOOLS
     🚀!insta.tags (text) = Ex: !insta.tags photography| find tags related to search
@@ -30,6 +28,11 @@
     🚀!pdf (any book) = Ex: !pdf python programming | find PDF 
     🚀!udemy.free = Ex: !udemy.free | free top courses
 
+## PROGRAMMING LANGUAGES
+### PYTHON
+     🚀!python.hello = Ex: !python.hello | hello world
+     🚀!python.comments = Ex !python.comments | info about python comments
+     
 ## OTHERS
 ### FONT
      🚀!text.default (text) = Ex: !text.default dx4iot
@@ -43,5 +46,5 @@
 Join Our [Discord Server](https://discord.gg/RdMngVN)
 
 ## Feedback
-If you have any thoughts or feedback about RETURN 2HACK  BOT then check out [here](https://forms.gle/uhucQ4hwsgYfPWEK8)
+if you have any thoughts or feedback about RETURN 2HACK  BOT then check out [here](https://forms.gle/uhucQ4hwsgYfPWEK8)
 
