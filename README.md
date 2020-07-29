@@ -41,5 +41,5 @@
 
 `Join Our [Discord Server](https://discord.gg/RdMngVN)`
 ## Support or Contact
-if you have any thoughts or feedback about RETURN 2HACK  BOT then check out [feedback](https://forms.gle/uhucQ4hwsgYfPWEK8)
+if you have any thoughts or feedback about RETURN 2HACK  BOT then check out [here](https://forms.gle/uhucQ4hwsgYfPWEK8)
 
