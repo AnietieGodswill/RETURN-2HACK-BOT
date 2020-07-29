@@ -19,6 +19,7 @@
     🚀!sim (your phone no) = Ex: !sim 7351589XXX | find SIM name   (currently for india) 
     🚀!check.uname (username) = Ex: !check.uname dx4iot | check username on top websites
     🚀!host2ip (domain name) = Ex: !host2ip techbuster.in | convert hostname to ip
+    🚀!info.web (domain name) = Ex: !info.web techbuster.in | find information about domain 
     
 ## SOCIAL MEDIA TOOLS
     🚀!insta.tags (text) = Ex: !insta.tags photography| find tags related to search
