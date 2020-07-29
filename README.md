@@ -1,6 +1,5 @@
 # Bot Commands
 
-
 ## SOME USEFUL TOOLS
 ### ENCRYPTION & DECRYPTION
      🚀!base64.en (text) = Ex: !base64.en python programming | convert text to base64
@@ -31,7 +30,7 @@
     🚀!udemy.free = Ex: !udemy.free | free top courses
 
 ## OTHERS
- ### FONT
+### FONT
      🚀!text.default (text) = Ex: !text.default dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
