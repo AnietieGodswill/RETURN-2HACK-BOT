@@ -11,6 +11,7 @@
  
 #### FAKE INFORMATION
     🚀!fake.in = Ex: !fake.in | generate fake information (india)
+        
 #### URL SHORTNER
     🚀!url.shortner (url) = Ex: !url.shortner https://techbuster.in/ | short any url
 
