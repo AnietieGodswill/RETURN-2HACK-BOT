@@ -2,17 +2,17 @@
 
 
 ## SOME USEFUL TOOLS
-#### ENCRYPTION & DECRYPTION
+### ENCRYPTION & DECRYPTION
      🚀!base64.en (text) = Ex: !base64.en python programming | convert text to base64
      🚀!base64.de (base64) = Ex: !md5.en cHl0aG9uIHByb2dyYW1taW5n | convert base64 to text
      🚀!proxy.http = Ex: !proxy.http | find http proxy list 
      🚀!proxy.socks4 = Ex: !proxy.socks4 | find socks4 proxy list
      🚀!proxy.http = Ex: !proxy.socks5 | find socks5 proxy list
  
-#### FAKE INFORMATION
+### FAKE INFORMATION
     🚀!fake.in = Ex: !fake.in | generate fake information (india)
         
-#### URL SHORTNER
+### URL SHORTNER
     🚀!url.shortner (url) = Ex: !url.shortner https://techbuster.in/ | short any url
 
 
@@ -31,7 +31,7 @@
     🚀!udemy.free = Ex: !udemy.free | free top courses
 
 ## OTHERS
- #### FONT
+ ### FONT
      🚀!text.default (text) = Ex: !text.default dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
