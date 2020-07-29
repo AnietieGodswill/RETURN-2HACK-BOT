@@ -6,7 +6,7 @@
      🚀!base64.de (base64) = Ex: !md5.en cHl0aG9uIHByb2dyYW1taW5n | convert base64 to text
      🚀!proxy.http = Ex: !proxy.http | find http proxy list 
      🚀!proxy.socks4 = Ex: !proxy.socks4 | find socks4 proxy list
-     🚀!proxy.http = Ex: !proxy.socks5 | find socks5 proxy list
+     🚀!proxy.socks5 = Ex: !proxy.socks5 | find socks5 proxy list
  
 ### FAKE INFORMATION
     🚀!fake.in = Ex: !fake.in | generate fake information (india)
