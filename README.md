@@ -1,7 +1,7 @@
-## Bot Commands
+# Bot Commands
 
 
-### SOME USEFUL TOOLS
+## SOME USEFUL TOOLS
 #### ENCRYPTION & DECRYPTION
      🚀!base64.en (text) = Ex: !base64.en python programming | convert text to base64
      🚀!base64.de (base64) = Ex: !md5.en cHl0aG9uIHByb2dyYW1taW5n | convert base64 to text
@@ -16,21 +16,21 @@
     🚀!url.shortner (url) = Ex: !url.shortner https://techbuster.in/ | short any url
 
 
-### INFORMATION GATHERING 
+## INFORMATION GATHERING 
     🚀!sim (your phone no) = Ex: !sim 7351589XXX | find SIM name   (currently for india) 
     🚀!check.uname (username) = Ex: !check.uname dx4iot | check username on top websites
     🚀!host2ip (domain name) = Ex: !host2ip techbuster.in | convert hostname to ip
     
-### SOCIAL MEDIA TOOLS
+## SOCIAL MEDIA TOOLS
     🚀!insta.tags (text) = Ex: !insta.tags photography| find tags related to search
     🚀!yt.thumb (yt_vid_url) = Ex: !yt.thumb https://www.youtube.com/watch?v=xxxxxx |find vid thumbnail
     🚀!yt.tags (yt_vid_url) = Ex: !yt.tags https://www.youtube.com/watch?v=xxxxxx |find vid tags
 
-### RESOURCES
+## RESOURCES
     🚀!pdf (any book) = Ex: !pdf python programming | find PDF 
     🚀!udemy.free = Ex: !udemy.free | free top courses
 
-### OTHERS
+## OTHERS
  #### FONT
      🚀!text.default (text) = Ex: !text.default dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
