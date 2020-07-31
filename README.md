@@ -47,6 +47,7 @@
      🚀!text.digital (text) = Ex: !text.digital dx4iot
      🚀!text.universe (text) = Ex: !text.universe dx4iot
      🚀!text.mirror (text) = Ex: !text.mirror dx4iot
+     
 ## GAMES
      🚀!game (any game) = Ex: !game fifa | download any games for free
 ### FREE LIST
