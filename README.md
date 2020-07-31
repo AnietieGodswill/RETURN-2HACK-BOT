@@ -51,7 +51,7 @@
      🚀!game (any game) = Ex: !game fifa | download any games for free
 ### FREE LIST
      🚀!games.epic.free = Ex: !games.epic.free | find free epic games
-     🚀!games.steam.free = Ex: !games.epic.free | find free steam games
+     🚀!games.steam.free = Ex: !games.steam.free | find free steam games
 
 ## Join
 Join Our [Discord Server](https://discord.gg/RdMngVN)
