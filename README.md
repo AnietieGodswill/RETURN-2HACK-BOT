@@ -6,7 +6,7 @@
      🚀!base64.en (text) = Ex: !base64.en python programming | convert text to base64
      🚀!base64.de (base64) = Ex: !md5.en cHl0aG9uIHByb2dyYW1taW5n | convert base64 to text
      🚀!text2binary (text) = Ex: !text2binary python | convert text to binary
-     🚀!binary2text (text) = Ex: !binary2text 01110000 01111001 01110100 01101000 01101111 01101110 | convert binary to text
+     🚀!binary2text (text) = Ex: !binary2text 01110000 01111001 | convert binary to text
 
 ### PROXY TOOLS
      🚀!proxy.http = Ex: !proxy.http | find http proxy list 
