@@ -20,7 +20,7 @@
     🚀!url.shortner (url) = Ex: !url.shortner https://techbuster.in/ | short any url
 
 ## INFORMATION GATHERING 
-    🚀!phoneinfo (your phone no) = Ex: !phoneinfo +917351589XXX | find phone information
+    🚀!phoneinfo (phone numbers) = Ex: !phoneinfo +917351589XXX +917251589XXX | find phone no information
     🚀!check.uname (username) = Ex: !check.uname dx4iot | check username on top websites
     🚀!host2ip (domain name) = Ex: !host2ip techbuster.in | convert hostname to ip
     
@@ -38,11 +38,14 @@
 ### PYTHON
      🚀!python.hello = Ex: !python.hello | hello world
      🚀!python.comments = Ex !python.comments | info about python comments
-   
+     
+## MATHS WORLD
+     🚀!leapyr (any leap years) = Ex: !leapyr 2020 2016 2021 | leap year finder 
+     
 ## OTHERS
 ### CONVERTER 
-     🚀!cel2fah = Ex: !cel2fah | convert celsius to fahrenheit
-     🚀!fah2cel = Ex: !fah2cel | convert fahrenheit to celsius
+     🚀!cel2fah (values) = Ex: !cel2fah 32.2 95.2 34.2 | convert celsius to fahrenheit
+     🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius
      
 ### FONT
      🚀!text.default (text) = Ex: !text.default dx4iot
