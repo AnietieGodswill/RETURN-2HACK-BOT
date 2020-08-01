@@ -20,7 +20,7 @@
     🚀!url.shortner (url) = Ex: !url.shortner https://techbuster.in/ | short any url
 
 ## INFORMATION GATHERING 
-    🚀!sim (your phone no) = Ex: !sim 7351589XXX | find SIM name   (currently for india) 
+    🚀!phoneinfo (your phone no) = Ex: !phoneinfo +917351589XXX | find phone information
     🚀!check.uname (username) = Ex: !check.uname dx4iot | check username on top websites
     🚀!host2ip (domain name) = Ex: !host2ip techbuster.in | convert hostname to ip
     
