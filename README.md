@@ -38,8 +38,12 @@
 ### PYTHON
      🚀!python.hello = Ex: !python.hello | hello world
      🚀!python.comments = Ex !python.comments | info about python comments
-     
+   
 ## OTHERS
+### CONVERTER 
+     🚀!cel2fah = Ex: !cel2fah | convert celsius to fahrenheit
+     🚀!fah2cel = Ex: !fah2cel | convert fahrenheit to celsius
+     
 ### FONT
      🚀!text.default (text) = Ex: !text.default dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
