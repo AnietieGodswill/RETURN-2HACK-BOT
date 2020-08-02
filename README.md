@@ -41,12 +41,25 @@
      
 ## MATHS WORLD
      🚀!leapyr (any leap years) = Ex: !leapyr 2020 2016 2021 | leap year finder 
-     
-## OTHERS
-### CONVERTER 
+
+## CONVERSION
+### DATA TRANSFER RATE
+     🚀!bps2kbps
+     🚀!bps2kBps
+     🚀!bps2kibitps
+     🚀!bps2mbps
+     🚀!bps2mBps
+     🚀!bps2mebitps
+     🚀!bps2gbps
+     🚀!bps2gBps
+     🚀!bps2gibitps
+     🚀!bps2tbps
+     🚀!bps2tBps
+     🚀!bps2tebitps
      🚀!cel2fah (values) = Ex: !cel2fah 32.2 95.2 34.2 | convert celsius to fahrenheit
-     🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius
-     
+     🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius     
+
+## OTHERS
 ### FONT
      🚀!text.default (text) = Ex: !text.default dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
