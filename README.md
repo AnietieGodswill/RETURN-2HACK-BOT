@@ -44,18 +44,20 @@
 
 ## CONVERSION
 ### DATA TRANSFER RATE
-     🚀!bps2kbps
-     🚀!bps2kBps
-     🚀!bps2kibitps
-     🚀!bps2mbps
-     🚀!bps2mBps
-     🚀!bps2mebitps
-     🚀!bps2gbps
-     🚀!bps2gBps
-     🚀!bps2gibitps
-     🚀!bps2tbps
-     🚀!bps2tBps
-     🚀!bps2tebitps
+     🚀!bps2kbps (values) = Ex: !bps2kbps 1 2 3 4 | convert Bit per second to Kilobit per second
+     🚀!bps2kBps (values) = Ex: !bps2kBps 1 2 3 4
+     🚀!bps2kibitps (values) = Ex: !bps2kibitps 1 2 3 4
+     🚀!bps2mbps (values) = Ex: !bps2mbps 1 2 3 4
+     🚀!bps2mBps (values) = Ex: !bps2mBps 1 2 3 4
+     🚀!bps2mebitps (values) = Ex: !bps2mebitps 1 2 3 4
+     🚀!bps2gbps (values) = Ex: !bps2gbps 1 2 3 4
+     🚀!bps2gBps (values) = Ex: !bps2gBps 1 2 3 4
+     🚀!bps2gibitps (values) = !bps2gibitps 1 2 3 4
+     🚀!bps2tbps (values) = !bps2tbps 1 2 3 4
+     🚀!bps2tBps (values) = !bps2tBps 1 2 3 4
+     🚀!bps2tebitps (values) = !bps2tebitps 1 2 3 4
+     
+     
      🚀!cel2fah (values) = Ex: !cel2fah 32.2 95.2 34.2 | convert celsius to fahrenheit
      🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius     
 
