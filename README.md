@@ -49,13 +49,13 @@
      🚀!bps2kibitps (values) = Ex: !bps2kibitps 1 2 3 4 | convert Bit per second to Kibibit per second
      🚀!bps2mbps (values) = Ex: !bps2mbps 1 2 3 4 | convert Bit per second to Megabit per second
      🚀!bps2mBps (values) = Ex: !bps2mBps 1 2 3 4 | convert Bit per second to Megabyte per second
-     🚀!bps2mebitps (values) = Ex: !bps2mebitps 1 2 3 4 | convert Bit per second to Megabyte per second
-     🚀!bps2gbps (values) = Ex: !bps2gbps 1 2 3 4 | convert Bit per second to Megabyte per second
-     🚀!bps2gBps (values) = Ex: !bps2gBps 1 2 3 4 | convert Bit per second to Megabyte per second
-     🚀!bps2gibitps (values) = !bps2gibitps 1 2 3 4 | convert Bit per second to Megabyte per second
-     🚀!bps2tbps (values) = !bps2tbps 1 2 3 4 | convert Bit per second to Megabyte per second
-     🚀!bps2tBps (values) = !bps2tBps 1 2 3 4 | convert Bit per second to Megabyte per second
-     🚀!bps2tebitps (values) = !bps2tebitps 1 2 3 4 | convert Bit per second to Megabyte per second
+     🚀!bps2mebitps (values) = Ex: !bps2mebitps 1 2 3 4 | convert Bit per second to Mebibit per second
+     🚀!bps2gbps (values) = Ex: !bps2gbps 1 2 3 4 | convert Bit per second to Gigabit per second
+     🚀!bps2gBps (values) = Ex: !bps2gBps 1 2 3 4 | convert Bit per second to Gigabyte per second
+     🚀!bps2gibitps (values) = !bps2gibitps 1 2 3 4 | convert Bit per second to Gibibit per second
+     🚀!bps2tbps (values) = !bps2tbps 1 2 3 4 | convert Bit per second to Terabit per second
+     🚀!bps2tBps (values) = !bps2tBps 1 2 3 4 | convert Bit per second to Terabyte per second
+     🚀!bps2tebitps (values) = !bps2tebitps 1 2 3 4 | convert Bit per second to Tebibit per second
      
      
      🚀!cel2fah (values) = Ex: !cel2fah 32.2 95.2 34.2 | convert celsius to fahrenheit
