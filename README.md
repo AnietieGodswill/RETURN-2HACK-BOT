@@ -57,7 +57,7 @@
      🚀!bps2tBps (values) = !bps2tBps 1 2 3 4 | convert Bit per second to Terabyte per second
      🚀!bps2tebitps (values) = !bps2tebitps 1 2 3 4 | convert Bit per second to Tebibit per second
      
-     
+### TEMPERATURE
      🚀!cel2fah (values) = Ex: !cel2fah 32.2 95.2 34.2 | convert celsius to fahrenheit
      🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius     
 
