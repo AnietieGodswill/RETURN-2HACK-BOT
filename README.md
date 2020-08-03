@@ -62,6 +62,17 @@
      🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius     
 
 ## OTHERS
+### FUN
+     🚀!cal.age.ea (D.O.B) = Ex: !cal.age.ea 2002,01,10 | find your age on earth
+     🚀!cal.age.ma (D.O.B) = Ex: !cal.age.ma 2002,01,10 | find your age on mars
+     🚀!cal.age.me (D.O.B) = Ex: !cal.age.me 2002,01,10 | find your age on mercury
+     🚀!cal.age.ve (D.O.B) = Ex: !cal.age.ve 2002,01,10 | find your age on venus
+     🚀!cal.age.ju (D.O.B) = Ex: !cal.age.ju 2002,01,10 | find your age on jupiter
+     🚀!cal.age.sa (D.O.B) = Ex: !cal.age.sa 2002,01,10 | find your age on saturn
+     🚀!cal.age.ur (D.O.B) = Ex: !cal.age.ur 2002,01,10 | find your age on uranus
+     🚀!cal.age.ne (D.O.B) = Ex: !cal.age.ne 2002,01,10 | find your age on neptune
+     🚀!cal.age.pl (D.O.B) = Ex: !cal.age.pl 2002,01,10 | find your age on pluto
+
 ### FONT
      🚀!text.default (text) = Ex: !text.default dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
