@@ -62,7 +62,7 @@
      🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius     
 
 ## OTHERS
-### FUN
+### AGE FINDER
      🚀!cal.age.ea (D.O.B) = Ex: !cal.age.ea 2002,01,10 | find your age on earth
      🚀!cal.age.ma (D.O.B) = Ex: !cal.age.ma 2002,01,10 | find your age on mars
      🚀!cal.age.me (D.O.B) = Ex: !cal.age.me 2002,01,10 | find your age on mercury
