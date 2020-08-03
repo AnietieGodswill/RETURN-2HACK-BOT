@@ -23,6 +23,7 @@
     🚀!phoneinfo (phone numbers) = Ex: !phoneinfo +917351589XXX +917251589XXX | find phone no information
     🚀!check.uname (username) = Ex: !check.uname dx4iot | check username on top websites
     🚀!host2ip (domain name) = Ex: !host2ip techbuster.in | convert hostname to ip
+    🚀!info.web (website) = Ex: !info.web techbuster.in | find website information
     
 ## SOCIAL MEDIA TOOLS
     🚀!insta.tags (text) = Ex: !insta.tags photography| find tags related to search
