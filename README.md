@@ -75,7 +75,9 @@
 ## MATHS WORLD
      🚀!leapyr (any leap years) = Ex: !leapyr 2020 2016 2021 | leap year finder 
 
-### FONT
+### FONT 
+**NOTE: These text best works best on discord pc**
+
      🚀!text.default (text) = Ex: !text.default dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
      🚀!text.bubble (text) = Ex: !text.bubble dx4iot
