@@ -37,7 +37,9 @@
      🚀!python.hello = Ex: !python.hello | hello world
      🚀!python.comments = Ex !python.comments | info about python comments
      
- 
+## TOOLS COMMANDS
+     🚀!info.nmap = Ex: !info.nmap |show nmap commands
+     
 ## RESOURCES
     🚀!pdf (any book) = Ex: !pdf python programming | find PDF 
     🚀!udemy.free = Ex: !udemy.free | free top courses
