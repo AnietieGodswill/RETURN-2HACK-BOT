@@ -37,14 +37,12 @@
      🚀!python.hello = Ex: !python.hello | hello world
      🚀!python.comments = Ex !python.comments | info about python comments
      
-    
-
-## OTHERS
-### RESOURCES
+ 
+## RESOURCES
     🚀!pdf (any book) = Ex: !pdf python programming | find PDF 
     🚀!udemy.free = Ex: !udemy.free | free top courses
 
-### AGE FINDER
+## AGE FINDER
      🚀!cal.age.ea (D.O.B) = Ex: !cal.age.ea 2002,01,10 | find your age on earth
      🚀!cal.age.ma (D.O.B) = Ex: !cal.age.ma 2002,01,10 | find your age on mars
      🚀!cal.age.me (D.O.B) = Ex: !cal.age.me 2002,01,10 | find your age on mercury
@@ -55,8 +53,8 @@
      🚀!cal.age.ne (D.O.B) = Ex: !cal.age.ne 2002,01,10 | find your age on neptune
      🚀!cal.age.pl (D.O.B) = Ex: !cal.age.pl 2002,01,10 | find your age on pluto
 
-### CONVERSION
-#### DATA TRANSFER RATE
+## CONVERSION
+### DATA TRANSFER RATE
      🚀!bps2kbps (values) = Ex: !bps2kbps 1 2 3 4 | convert Bit per second to Kilobit per second
      🚀!bps2kBps (values) = Ex: !bps2kBps 1 2 3 4 | convert Bit per second to Kilobyte per second
      🚀!bps2kibitps (values) = Ex: !bps2kibitps 1 2 3 4 | convert Bit per second to Kibibit per second
@@ -74,7 +72,7 @@
      🚀!cel2fah (values) = Ex: !cel2fah 32.2 95.2 34.2 | convert celsius to fahrenheit
      🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius 
      
-### MATHS WORLD
+## MATHS WORLD
      🚀!leapyr (any leap years) = Ex: !leapyr 2020 2016 2021 | leap year finder 
 
 ### FONT
