@@ -75,6 +75,7 @@
      🚀!fah2cel (values) = Ex: !fah2cel 54 34.2 32.2  | convert fahrenheit to celsius 
      
 ## MATHS WORLD
+     🚀!calc (values) = Ex: !calc (12+23+23)/3434 | calculator
      🚀!leapyr (any leap years) = Ex: !leapyr 2020 2016 2021 | leap year finder 
 
 ## FONT 
