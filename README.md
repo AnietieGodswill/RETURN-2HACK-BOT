@@ -39,7 +39,10 @@
      
 ## TOOLS COMMANDS
      🚀!info.nmap = Ex: !info.nmap |show nmap commands
-     
+
+## TRANSLATOR
+    🚀!tls (lang) (text) = Ex: !tls french hello world | convert text to any language 
+    
 ## RESOURCES
     🚀!pdf (any book) = Ex: !pdf python programming | find PDF 
     🚀!udemy.free = Ex: !udemy.free | free top courses
