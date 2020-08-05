@@ -30,6 +30,7 @@
     🚀!yt.thumb (yt_vid_url) = Ex: !yt.thumb https://www.youtube.com/watch?v=xxxxxx |find vid thumbnail
     🚀!yt.tags (yt_vid_url) = Ex: !yt.tags https://www.youtube.com/watch?v=xxxxxx |find vid tags
     🚀!github.uname (username) = Ex: !github.uname dx4iot | information about username
+    🚀!github.repo (username) =ex: !github.repo dx4iot | 6 new github repos
 
 
 ## PROGRAMMING LANGUAGES
